@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1569740617 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\dominios.cpp
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+	"dominios.h"
+
+1569740612 c:\users\cliente\desktop\trabalho-tp1\trabalho\dominios.h
+	<iostream>
+
+1569737513 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\main.cpp
+	<iostream>
+	"testes.h"
+	<cstdlib>
+
+1569747343 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\testes-dominios.cpp
+	"testes-dominios.h"
+	<iostream>
+	<exception>
+
+1569739970 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\testes-entidades.cpp
+	"testes-entidades.h"
+
+1569739159 c:\users\cliente\desktop\trabalho-tp1\trabalho\testes.h
+	"testes-dominios.h"
+	"testes-entidades.h"
+
+1569747252 c:\users\cliente\desktop\trabalho-tp1\trabalho\testes-dominios.h
+	<iostream>
+	"dominios.h"
+
+1569738137 c:\users\cliente\desktop\trabalho-tp1\trabalho\testes-entidades.h
+	"entidades.h"
+
+1569737105 c:\users\cliente\desktop\trabalho-tp1\trabalho\entidades.h
+	"dominios.h"
+
+1569740617 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\dominios.cpp
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+	"dominios.h"
+
+1569740612 c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\dominios.h
+	<iostream>
+
+1569737513 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\main.cpp
+	<iostream>
+	"testes.h"
+	<cstdlib>
+
+1569739159 c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\testes.h
+	"testes-dominios.h"
+	"testes-entidades.h"
+
+1569747252 c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\testes-dominios.h
+	<iostream>
+	"dominios.h"
+
+1569738137 c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\testes-entidades.h
+	"entidades.h"
+
+1569737105 c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\entidades.h
+	"dominios.h"
+
+1569747343 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\testes-dominios.cpp
+	"testes-dominios.h"
+	<iostream>
+	<exception>
+
+1569739970 source:c:\users\cliente\desktop\trabalho-tp1\trabalho\codeblocks\testes-entidades.cpp
+	"testes-entidades.h"
+
+1569740617 source:c:\users\cliente\desktop\codeblocks\dominios.cpp
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+	"dominios.h"
+
+1569740612 c:\users\cliente\desktop\codeblocks\dominios.h
+	<iostream>
+
+1569748503 source:c:\users\cliente\desktop\codeblocks\main.cpp
+	<iostream>
+	"testes.h"
+	<cstdlib>
+
+1569739159 c:\users\cliente\desktop\codeblocks\testes.h
+	"testes-dominios.h"
+	"testes-entidades.h"
+
+1569747252 c:\users\cliente\desktop\codeblocks\testes-dominios.h
+	<iostream>
+	"dominios.h"
+
+1569738137 c:\users\cliente\desktop\codeblocks\testes-entidades.h
+	"entidades.h"
+
+1569748448 c:\users\cliente\desktop\codeblocks\entidades.h
+	"dominios.h"
+
+1569747343 source:c:\users\cliente\desktop\codeblocks\testes-dominios.cpp
+	"testes-dominios.h"
+	<iostream>
+	<exception>
+
+1569739970 source:c:\users\cliente\desktop\codeblocks\testes-entidades.cpp
+	"testes-entidades.h"
+
+1569740617 source:c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\dominios.cpp
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+	"dominios.h"
+
+1569740612 c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\dominios.h
+	<iostream>
+
+1569748503 source:c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\main.cpp
+	<iostream>
+	"testes.h"
+	<cstdlib>
+
+1569739159 c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes.h
+	"testes-dominios.h"
+	"testes-entidades.h"
+
+1569747252 c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-dominios.h
+	<iostream>
+	"dominios.h"
+
+1569738137 c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-entidades.h
+	"entidades.h"
+
+1569748448 c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\entidades.h
+	"dominios.h"
+
+1569747343 source:c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-dominios.cpp
+	"testes-dominios.h"
+	<iostream>
+	<exception>
+
+1569739970 source:c:\users\cliente\desktop\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-entidades.cpp
+	"testes-entidades.h"
+
+1569740617 source:c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\dominios.cpp
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+	"dominios.h"
+
+1569740612 c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\dominios.h
+	<iostream>
+
+1569748503 source:c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\main.cpp
+	<iostream>
+	"testes.h"
+	<cstdlib>
+
+1569739159 c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes.h
+	"testes-dominios.h"
+	"testes-entidades.h"
+
+1569747252 c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-dominios.h
+	<iostream>
+	"dominios.h"
+
+1569738137 c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-entidades.h
+	"entidades.h"
+
+1569748448 c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\entidades.h
+	"dominios.h"
+
+1569747343 source:c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-dominios.cpp
+	"testes-dominios.h"
+	<iostream>
+	<exception>
+
+1569739970 source:c:\users\cliente\desktop\stuff\unb\6semestre\tp1\trabalho-tp1\trabalho-tp1\trabalho\codeblocks\testes-entidades.cpp
+	"testes-entidades.h"
+
